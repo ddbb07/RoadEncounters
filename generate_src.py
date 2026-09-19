@@ -7,7 +7,7 @@ EVENTS = Path("Quests/Final/Barbora/random_events")
 OUTPUT = Path(__file__).resolve().parent / "src/Data/RoadEncounters"
 
 ELITE_FACTOR = 2  # 1 -> 2
-WEAK_FACTOR = 1.8  # 2.5 -> 4.5
+WEAK_FACTOR = 2  # 2.5 -> 5
 CARAVAN_SOLDIER_FACTOR = 3  # 2 -> 6
 ROAD_FACTOR = 1.5
 

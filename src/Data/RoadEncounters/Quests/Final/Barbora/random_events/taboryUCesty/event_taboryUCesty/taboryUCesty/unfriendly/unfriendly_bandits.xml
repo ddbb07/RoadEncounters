@@ -5,7 +5,7 @@
 			<Text StringName="bandits_cAlv" Text="Unfriendly Bandits" />
 			<NpcGroups>
 				<NpcGroup SoulPool="taboryUCesty_bandit" TagPoints="spawnPoints" NpcAssetName="spawnedNPCs" SchedulerProxy="proxy_party" Count="2" CountDifficultyAddPerNPC="0" />
-				<NpcGroup SoulPool="taboryUCesty_bandit" TagPoints="spawnPoints" NpcAssetName="spawnedNPCs_party" SchedulerProxy="proxy_party" Count="4.5" CountStandardDeviation="0.2" CountDifficultyAddPerNPC="-0.1" />
+				<NpcGroup SoulPool="taboryUCesty_bandit" TagPoints="spawnPoints" NpcAssetName="spawnedNPCs_party" SchedulerProxy="proxy_party" Count="5" CountStandardDeviation="0.2" CountDifficultyAddPerNPC="-0.1" />
 			</NpcGroups>
 		</RandomEventVariant>
 	</Skald>
