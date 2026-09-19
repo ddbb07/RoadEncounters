@@ -1,0 +1,13 @@
+<kcd_mod>
+  <info>
+    <name>Road Encounters</name>
+    <modid>roadencounters</modid>
+    <description>Increase road encounters</description>
+    <author>ddbb07</author>
+    <version>1.0.0</version>
+    <created_on>2026-09-19</created_on>
+  </info>
+  <supports>
+    <version>1.5*</version>
+  </supports>
+</kcd_mod>
