@@ -1,0 +1,11 @@
+version = 1
+
+[[annotations]]
+path = ["REUSE.toml", ".gitignore", "generate_src.py", "src/mod.manifest"]
+SPDX-FileCopyrightText = "2026 ddbb07"
+SPDX-License-Identifier = "MIT"
+
+[[annotations]]
+path = "src/Data/**"
+SPDX-FileCopyrightText = "Warhorse Studios s.r.o."
+SPDX-License-Identifier = "LicenseRef-Warhorse-Studios"

@@ -1,0 +1,3 @@
+Modified game data from Kingdom Come: Deliverance II, copyright Warhorse Studios s.r.o.
+
+The MIT license of this repository does not apply to it, and no license is granted here.
